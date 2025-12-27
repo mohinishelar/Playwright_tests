@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+*.log
+
+# Playwright
+playwright-report/
+test-results/
+.playwright-cache/
+
+# OS / IDE files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Windows user directories
+AppData/
+Downloads/
+Music/
+Videos/
+Documents/
+OneDrive/
+Saved Games/
