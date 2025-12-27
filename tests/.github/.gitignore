@@ -1,0 +1,19 @@
+# Ignore Windows system files
+AppData/
+Documents/
+Downloads/
+Favorites/
+Music/
+Videos/
+Saved Games/
+NTUSER.*
+
+# Ignore IDE and tool configs
+.vscode/
+.idea/
+*.log
+
+# Ignore caches
+.cache/
+.chatgpt/
+.m2/
